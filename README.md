@@ -13,6 +13,14 @@ A reusable, model-agnostic software engineering policy for Claude Code, Codex, O
 - `scripts/validate-repository.sh`: structural and basic secret validation
 - `.github/workflows/validate.yml`: CI enforcement
 
+## Reading order
+
+1. **Always** → [`AGENTS.md`](AGENTS.md) (law)
+2. **Module design** → [`docs/architecture/constitution.md`](docs/architecture/constitution.md)
+3. **Ship / migrate / ops** → [`docs/architecture/operations.md`](docs/architecture/operations.md)
+
+Companion docs explain how to apply the root rules; they do not override `AGENTS.md`.
+
 ## Install into an application
 
 ```bash

@@ -3,6 +3,13 @@
 ## Purpose
 Build software that remains modular, testable, secure, observable and easy to change.
 
+## Reading order
+1. **Always** start here (`AGENTS.md`) — authority, boundaries, change process, DoD.
+2. **Module design** → `docs/architecture/constitution.md` — module shape, exceptions, brownfield.
+3. **Ship / migrate / ops risk** → `docs/architecture/operations.md` — migrations, resilience, deps, observability.
+
+Root rules are mandatory. Companion docs explain how to apply them; they do not override this file.
+
 ## Authority
 1. Security, legal and compliance requirements (including privacy and data-protection duties)
 2. This constitution
