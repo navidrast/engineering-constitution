@@ -6,7 +6,7 @@ A reusable, model-agnostic software engineering policy for Claude Code, Codex, O
 
 - `AGENTS.md`: universal engineering constitution and authority order
 - `CLAUDE.md`: Claude Code adapter
-- `docs/architecture/`: modular architecture guidance
+- `docs/architecture/`: modular architecture guidance, including operations and migration discipline
 - `docs/opendray/`: OpenDray goal, plan and memory templates
 - `.claude/skills/`: reusable Claude workflows
 - `scripts/install-into-project.sh`: non-destructive installer

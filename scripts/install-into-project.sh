@@ -20,7 +20,7 @@ copy_item() {
   fi
 }
 
-for item in AGENTS.md CLAUDE.md docs/architecture docs/development .claude scripts/validate-repository.sh .github/workflows/validate.yml; do
+for item in AGENTS.md CLAUDE.md docs/architecture .claude scripts/validate-repository.sh .github/workflows/validate.yml; do
   copy_item "$item"
 done
 

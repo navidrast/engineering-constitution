@@ -5,6 +5,7 @@ required=(
   AGENTS.md
   CLAUDE.md
   docs/architecture/constitution.md
+  docs/architecture/operations.md
   docs/opendray/setup-guide.md
 )
 
